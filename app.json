@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "HelloWorld",
-    "slug": "frontend",
+    "name": "AppMipMid",
+    "slug": "mip_mid",
     "platforms": [
       "ios",
       "android",

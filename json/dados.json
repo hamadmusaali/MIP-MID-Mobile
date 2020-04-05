@@ -1,0 +1,12 @@
+
+{
+    "mipmid1" :[
+        {"id":"1", "Safra": "Safra 2016/2017", "Produtor": "Maurílio", "Identificação": "Bertoldo", "Cultivar": "TMG 7262 RR", "ResponsávelTécnico": "José", "Município": "Pato Branco"}
+   ],
+    "mipmid2" :[
+        {"id":"2", "Safra": "Safra 2017/2018", "Produtor": "Marcos", "Identificação": "Bertoldo", "Cultivar": "TMG 8262 RR", "ResponsávelTécnico": "Joana", "Município": "Cornélio Procópio"}    
+    ],
+    "mipmid3" :[
+        {"id":"3", "Safra": "Safra 2018/2019", "Produtor": "Camila", "Identificação": "Bertoldo", "Cultivar": "TMG 7662 RR", "ResponsávelTécnico": "Caio", "Município": "Assis"}
+    ]
+}
